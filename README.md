@@ -1,6 +1,6 @@
 # Student Attention Monitoring System 👁️📈
 
-![System Demo](docs/demo.mp4)
+[![System Demo](docs/demo_thumbnail.png)](docs/demo.mp4)
 
 *An intelligent computer vision solution for real-time student engagement analysis in classroom environments*
 
