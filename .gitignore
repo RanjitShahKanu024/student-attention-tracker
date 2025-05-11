@@ -1,0 +1,16 @@
+# System files
+.DS_Store
+__pycache__/
+
+# Logs and outputs
+*.log
+*.csv
+logs/
+plots/
+
+# Virtual environment
+myenv/
+
+# Large files
+*.mov
+shape_predictor_68_face_landmarks.dat
